@@ -1,8 +1,8 @@
 <?php
 /* 
-Plugin Name: Enable CodePress
+Plugin Name: WP Enable CodePress
 Plugin URI: http://www.itsananderson.com/plugins/enable-codepress
-Description: CodePress syntax highlighting was added in 2.7, then removed in 2.8.1. Enable CodePress adds it back
+Description: Adds syntax highlighting to theme/plugin editors in WordPress versions 2.8.1 through 2.9.2
 Author: Will Anderson
 Version: 1.0
 Author URI: http://www.itsananderson.com/
